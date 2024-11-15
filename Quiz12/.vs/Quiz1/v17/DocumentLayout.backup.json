@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\pag.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\pag.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|c:\\users\\ahmed\\desktop\\quiz12\\quiz12\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|c:\\users\\ahmed\\desktop\\quiz12\\quiz12\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|c:\\users\\ahmed\\desktop\\quiz12\\quiz12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\pag.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\pag.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|C:\\Users\\Ahmed\\Desktop\\Quiz12\\quiz12\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{574CBC30-4C4B-4CEC-9CB6-5609720071E4}|Quiz12\\Quiz12.csproj|solutionrelative:quiz12\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Department.cs",
+              "RelativeDocumentMoniker": "Quiz12\\Department.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Department.cs",
+              "RelativeToolTip": "Quiz12\\Department.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:27:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Student.cs",
+              "RelativeDocumentMoniker": "Quiz12\\Student.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Student.cs",
+              "RelativeToolTip": "Quiz12\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:05:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Admin.xaml",
+              "RelativeDocumentMoniker": "Quiz12\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Admin.xaml",
+              "RelativeToolTip": "Quiz12\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T15:57:13.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Quiz12\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Login.xaml.cs",
+              "RelativeToolTip": "Quiz12\\Login.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:03:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Quiz12\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Admin.xaml.cs",
+              "RelativeToolTip": "Quiz12\\Admin.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBMAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:40:35.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "Quiz12\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\SignUp.xaml.cs",
+              "RelativeToolTip": "Quiz12\\SignUp.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:04:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pag.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Pag.xaml.cs",
+              "RelativeDocumentMoniker": "Quiz12\\Pag.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Pag.xaml.cs*",
+              "RelativeToolTip": "Quiz12\\Pag.xaml.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAjwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:01:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pag.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Pag.xaml",
+              "RelativeDocumentMoniker": "Quiz12\\Pag.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Pag.xaml",
+              "RelativeToolTip": "Quiz12\\Pag.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T15:19:01.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Login.xaml",
+              "RelativeDocumentMoniker": "Quiz12\\Login.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Login.xaml",
+              "RelativeToolTip": "Quiz12\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T15:00:47.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\SignUp.xaml",
+              "RelativeDocumentMoniker": "Quiz12\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\SignUp.xaml",
+              "RelativeToolTip": "Quiz12\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T15:57:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Model1.edmx",
+              "RelativeDocumentMoniker": "Quiz12\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Quiz12\\Quiz12\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Quiz12\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-12T16:59:59.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
